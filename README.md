@@ -3,11 +3,11 @@ I know that three.js & react-three-fiber have their own matcap materials. This i
 
 Matcap mapping demo
 
-![Matcap](https://github.com/otanodesignco/Fresnel-Shader-Material/blob/main/matcap.png?raw=true)
+![Matcap](https://github.com/otanodesignco/Matcap-Material/blob/main/matcap.png?raw=true)
 
 
 
-![Matcap profile view](https://github.com/otanodesignco/Fresnel-Shader-Material/blob/main/matcap1.png?raw=true)
+![Matcap profile view](https://github.com/otanodesignco/Matcap-Material/blob/main/matcap1.png?raw=true)
 
 to use:
 
