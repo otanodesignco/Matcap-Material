@@ -7,7 +7,7 @@ Matcap mapping demo
 
 
 
-![Matcap profile view](https://github.com/otanodesignco/Matcap-Material/blob/main/matcap1.png?raw=true)
+![Matcap profile view](https://github.com/otanodesignco/Matcap-Material/blob/main/matcap2.png?raw=true)
 
 to use:
 
