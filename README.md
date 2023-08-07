@@ -1,13 +1,13 @@
-# Fresnel Material
-Fresnel material that creates rim lighting of 3D mesh. There is an option to use the fresnel effect to mask transparency of the mesh for rim lighting only. Pass in the alpha prop of the Torus component of the demo. Allows for fine tuning the effect with the power factor, bias factor, and rim color intensity.
+# Matcap Material
+I know that three.js & react-three-fiber have their own matcap materials. This is part of my journey learning about shaders and I created this matcap material myself as part of that journey. Feel free to check out the code if you've ever wondered how it's done.
 
-sample image: Fresnel Effect
+Matcap mapping demo
 
-![Fresnel Demo](https://github.com/otanodesignco/Fresnel-Shader-Material/blob/main/fresnel.png?raw=true)
+![Matcap](https://github.com/otanodesignco/Fresnel-Shader-Material/blob/main/matcap.png?raw=true)
 
-Sample image: Transparent Fresnel Effect
 
-![Fresnel Alpha Demo](https://github.com/otanodesignco/Fresnel-Shader-Material/blob/main/transparentfresnel.png?raw=true)
+
+![Matcap profile view](https://github.com/otanodesignco/Fresnel-Shader-Material/blob/main/matcap1.png?raw=true)
 
 to use:
 
